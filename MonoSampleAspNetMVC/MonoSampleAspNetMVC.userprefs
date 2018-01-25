@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F154E9CF-1C32-4C42-B18C-1D1D0D3FF805}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoSampleAspNetMVC.Data\UserRepository.cs">
+    <Files>
+      <File FileName="MonoSampleAspNetMVC\Controllers\HomeController.cs" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Views\Web.config" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\packages.config" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Global.asax.cs" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Views\_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Views\Home\Index.cshtml" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Web.config" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Views\Shared\_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\App_Start\RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\App_Start\WebApiConfig.cs" Line="1" Column="1" />
+      <File FileName="MonoSampleAspNetMVC\Controllers\ValuesController.cs" Line="28" Column="28" />
+      <File FileName="MonoSampleAspNetMVC.Data\IRepository.cs" Line="9" Column="24" />
+      <File FileName="MonoSampleAspNetMVC.Data\UserRepository.cs" Line="7" Column="47" />
+      <File FileName="MonoSampleAspNetMVC.Model\User.cs" Line="29" Column="3" />
+      <File FileName="MonoSampleAspNetMVC\Controllers\UserController.cs" Line="8" Column="33" />
+      <File FileName="MonoSampleAspNetMVC.Data\IUserRepository.cs" Line="6" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MonoSampleAspNetMVC PreferredExecutionTarget="AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" />
+</Properties>
