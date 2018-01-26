@@ -1,0 +1,9 @@
+Useful dev commands:
+====================
+curl:
+-----
+##web get request (json)
+curl -i -H "Accept: application/json" -H "Content-Type: application/json" -X GET http://localhost:56728/api/users
+
+##web get request (json)
+curl -i -H "Accept: application/xml" -H "Content-Type: application/xml" -X GET http://127.0.0.1:8080/api/users
